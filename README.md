@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @AFailedMatador
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning python and security+
-
+cs student
 
 <!---
 AFailedMatador/AFailedMatador is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
