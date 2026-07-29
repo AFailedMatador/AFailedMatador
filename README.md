@@ -1,4 +1,4 @@
-### David Joon-Ha Lee
+### David Lee
 
 CS student at the University of Chicago, still exploring which corner of software engineering I want to focus on — recent work spans systems programming (C) and full-stack web development (Django).
 
