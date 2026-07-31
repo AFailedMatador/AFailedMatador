@@ -1,6 +1,4 @@
-### David Lee
 
-CS student at the University of Chicago, still exploring which corner of software engineering I want to focus on — recent work spans systems programming (C) and full-stack web development (Django).
 
 **A few projects:**
 - [rabble-social-platform](https://github.com/AFailedMatador/rabble-social-platform) — Reddit/Twitter-style social platform built with Django and Django REST Framework
